@@ -21,3 +21,9 @@ awesomeなsonotsを集める所です。
 
 # motd
 - [motd-sonots](https://gist.github.com/chiastolite/7a953ba33afc342b0c42)
+
+# docker
+- [docker-sonots](https://twitter.com/deeeet/status/577389274154213376)
+
+# sixel graphics
+- [sonots.six](https://gist.github.com/mattn/f5e3e7f980147495a74d)
