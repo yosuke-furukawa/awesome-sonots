@@ -1,5 +1,5 @@
 # awesome-sonots
-awesomeなsonotsのプラグインを集める所です。
+awesomeなsonotsを集める所です。
 
 [![Gyazo](http://i.gyazo.com/749b11f9a2a3e3b9c777ac021f4675f2.png)](http://gyazo.com/749b11f9a2a3e3b9c777ac021f4675f2)
 
