@@ -27,3 +27,6 @@ awesomeなsonotsを集める所です。
 
 # sixel graphics
 - [sonots.six](https://gist.github.com/mattn/f5e3e7f980147495a74d)
+
+# golang
+- [dus_sonots](https://github.com/shibukawa/dus_sonots)
