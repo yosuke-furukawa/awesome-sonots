@@ -3,6 +3,11 @@ awesomeなsonotsを集める所です。
 
 [![Gyazo](http://i.gyazo.com/749b11f9a2a3e3b9c777ac021f4675f2.png)](http://gyazo.com/749b11f9a2a3e3b9c777ac021f4675f2)
 
+# Sticker
+- [sonots sticker](https://hexi.pics/items/d77800da357601ecb07d8e2fd0dce0b6)
+
+![img](https://hexi.pics/resize/w/462/h/462/d63eb733689985fee2350ab094c918a9.png)
+
 # vim plugin
 
 - [vim-sonots](https://github.com/mattn/vim-sonots)
@@ -24,12 +29,6 @@ awesomeなsonotsを集める所です。
 
 # docker
 - [docker-sonots](https://twitter.com/deeeet/status/577389274154213376)
-
-
-# Stickers
-- [sonots stickers](https://hexi.pics/items/d77800da357601ecb07d8e2fd0dce0b6)
-
-![img](https://hexi.pics/resize/w/462/h/462/d63eb733689985fee2350ab094c918a9.png)
 
 
 # sixel graphics
