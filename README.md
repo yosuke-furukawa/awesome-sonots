@@ -25,6 +25,13 @@ awesomeなsonotsを集める所です。
 # docker
 - [docker-sonots](https://twitter.com/deeeet/status/577389274154213376)
 
+
+# Stickers
+- [sonots stickers](https://hexi.pics/items/d77800da357601ecb07d8e2fd0dce0b6)
+
+![img](https://hexi.pics/resize/w/462/h/462/d63eb733689985fee2350ab094c918a9.png)
+
+
 # sixel graphics
 - [sonots.six](https://gist.github.com/mattn/f5e3e7f980147495a74d)
 
