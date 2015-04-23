@@ -22,7 +22,7 @@ awesomeなsonotsを集める所です。
 
 
 # npm
-- [node-sonots-san](https://github.com/watilde/node-sonots-san)
+- [node-sonots](https://github.com/watilde/node-sonots)
 
 # motd
 - [motd-sonots](https://gist.github.com/chiastolite/7a953ba33afc342b0c42)
