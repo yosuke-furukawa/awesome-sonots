@@ -36,3 +36,6 @@ awesomeなsonotsを集める所です。
 
 # golang
 - [dus_sonots](https://github.com/shibukawa/dus_sonots)
+
+# benri generator
+- [benri generator](https://yosuke-furukawa.github.io/benri_generator/)
